@@ -1,1 +1,1 @@
-web: gunicorn app:secmodelapp
+web: gunicorn secmodelapp:app
