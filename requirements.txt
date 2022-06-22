@@ -18,7 +18,7 @@ jdcal==1.4.1
 Jinja2==2.11.2
 MarkupPy==1.14
 MarkupSafe==1.1.1
-numpy==1.18.3
+numpy==1.22.0
 numpy-financial==1.0.0
 odfpy==1.4.1
 openpyxl==3.0.3
