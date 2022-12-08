@@ -1,6 +1,6 @@
 appdirs==1.4.3
 asgiref==3.2.3
-certifi==2019.9.11
+certifi==2022.12.7
 click==7.1.2
 defusedxml==0.6.0
 diff-match-patch==20181111
